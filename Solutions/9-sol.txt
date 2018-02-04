@@ -1,0 +1,105 @@
+Please enter a word to be guessed
+that does not contain ? or white space: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+???????????????
+So far you have guessed: 
+Please enter your next guess: 
+
+t???????t??????
+So far you have guessed: t
+Please enter your next guess: 
+
+th??????th?????
+So far you have guessed: h, t
+Please enter your next guess: 
+ |
+
+th??????th?????
+So far you have guessed: 4, h, t
+Please enter your next guess: 
+ |
+ 0
+
+th??????th?????
+So far you have guessed: 4, h, t, y
+Please enter your next guess: 
+ |
+ 0
+
+thi??i??th?????
+So far you have guessed: 4, h, i, t, y
+Please enter your next guess: 
+ |
+ 0
+
+this?is?th?????
+So far you have guessed: 4, h, i, s, t, y
+Please enter your next guess: 
+ |
+ 0
+
+this_is_th?_???
+So far you have guessed: 4, _, h, i, s, t, y
+Please enter your next guess: 
+ |
+ 0
+ |
+
+this_is_th?_???
+So far you have guessed: 4, _, h, i, q, s, t, y
+Please enter your next guess: You already guessed the character: q
+Please enter your next guess: You must enter a guess.
+Please enter your next guess: You must enter a guess.
+Please enter your next guess: You can only guess a single character.
+Please enter your next guess: 
+ |
+ 0
+ |
+
+this_is_the_e??
+So far you have guessed: 4, _, e, h, i, q, s, t, y
+Please enter your next guess: 
+ |
+ 0
+/|
+
+this_is_the_e??
+So far you have guessed: 2, 4, _, e, h, i, q, s, t, y
+Please enter your next guess: 
+ |
+ 0
+/|
+
+this_is_the_en?
+So far you have guessed: 2, 4, _, e, h, i, n, q, s, t, y
+Please enter your next guess: You correctly guessed the secret word: this_is_the_end

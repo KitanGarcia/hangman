@@ -1,0 +1,103 @@
+Please enter a word to be guessed
+that does not contain ? or white space: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+????????????
+So far you have guessed: 
+Please enter your next guess: 
+
+?a???a????a?
+So far you have guessed: a
+Please enter your next guess: 
+
+?a???a??r?a?
+So far you have guessed: a, r
+Please enter your next guess: 
+
+?a?e?a??rea?
+So far you have guessed: a, e, r
+Please enter your next guess: 
+ |
+
+?a?e?a??rea?
+So far you have guessed: a, e, r, u
+Please enter your next guess: 
+ |
+ 0
+
+?a?e?a??rea?
+So far you have guessed: a, e, i, r, u
+Please enter your next guess: 
+ |
+ 0
+ |
+
+?a?e?a??rea?
+So far you have guessed: +, a, e, i, r, u
+Please enter your next guess: 
+ |
+ 0
+/|
+
+?a?e?a??rea?
+So far you have guessed: +, =, a, e, i, r, u
+Please enter your next guess: 
+ |
+ 0
+/|\
+
+?a?e?a??rea?
+So far you have guessed: +, =, ], a, e, i, r, u
+Please enter your next guess: You can only guess a single character.
+Please enter your next guess: 
+ |
+ 0
+/|\
+/
+
+?a?e?a??rea?
+So far you have guessed: $, +, =, ], a, e, i, r, u
+Please enter your next guess: 
+ |
+ 0
+/|\
+/
+
+?ake?a??reak
+So far you have guessed: $, +, =, ], a, e, i, k, r, u
+Please enter your next guess: 
+ |
+ 0
+/|\
+/ \
+
+You failed to guess the secret word: take-a-break

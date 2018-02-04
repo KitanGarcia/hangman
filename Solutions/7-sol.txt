@@ -1,0 +1,101 @@
+Please enter a word to be guessed
+that does not contain ? or white space: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?????????????
+So far you have guessed: 
+Please enter your next guess: 
+
+d????d?d????d
+So far you have guessed: d
+Please enter your next guess: 
+ |
+
+d????d?d????d
+So far you have guessed: c, d
+Please enter your next guess: 
+ |
+
+d??e?d?d????d
+So far you have guessed: c, d, e
+Please enter your next guess: 
+ |
+
+do?e?d?d??ood
+So far you have guessed: c, d, e, o
+Please enter your next guess: 
+ |
+
+do?e?did??ood
+So far you have guessed: c, d, e, i, o
+Please enter your next guess: 
+ |
+ 0
+
+do?e?did??ood
+So far you have guessed: c, d, e, h, i, o
+Please enter your next guess: 
+ |
+ 0
+ |
+
+do?e?did??ood
+So far you have guessed: c, d, e, h, i, j, o
+Please enter your next guess: 
+ |
+ 0
+/|
+
+do?e?did??ood
+So far you have guessed: c, d, e, h, i, j, k, o
+Please enter your next guess: 
+ |
+ 0
+/|\
+
+do?e?did??ood
+So far you have guessed: c, d, e, h, i, j, k, l, o
+Please enter your next guess: 
+ |
+ 0
+/|\
+
+done?did??ood
+So far you have guessed: c, d, e, h, i, j, k, l, n, o
+Please enter your next guess: 
+ |
+ 0
+/|\
+
+done?did?good
+So far you have guessed: c, d, e, g, h, i, j, k, l, n, o
+Please enter your next guess: You correctly guessed the secret word: done-did-good

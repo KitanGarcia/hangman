@@ -1,0 +1,69 @@
+Please enter a word to be guessed
+that does not contain ? or white space: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?????
+So far you have guessed: 
+Please enter your next guess: 
+
+??ll?
+So far you have guessed: l
+Please enter your next guess: 
+
+??llo
+So far you have guessed: l, o
+Please enter your next guess: 
+ |
+
+??llo
+So far you have guessed: l, o, t
+Please enter your next guess: 
+ |
+ 0
+
+??llo
+So far you have guessed: l, o, r, t
+Please enter your next guess: 
+ |
+ 0
+ |
+
+??llo
+So far you have guessed: 3, l, o, r, t
+Please enter your next guess: 
+ |
+ 0
+ |
+
+?ello
+So far you have guessed: 3, e, l, o, r, t
+Please enter your next guess: You correctly guessed the secret word: hello

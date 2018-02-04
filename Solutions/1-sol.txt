@@ -1,0 +1,82 @@
+Please enter a word to be guessed
+that does not contain ? or white space: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+???
+So far you have guessed: 
+Please enter your next guess: 
+ |
+
+???
+So far you have guessed: 1
+Please enter your next guess: 
+ |
+ 0
+
+???
+So far you have guessed: 1, 2
+Please enter your next guess: 
+ |
+ 0
+ |
+
+???
+So far you have guessed: 1, 2, 3
+Please enter your next guess: 
+ |
+ 0
+/|
+
+???
+So far you have guessed: 1, 2, 3, h
+Please enter your next guess: 
+ |
+ 0
+/|\
+
+???
+So far you have guessed: 1, 2, 3, h, i
+Please enter your next guess: 
+ |
+ 0
+/|\
+/
+
+???
+So far you have guessed: 1, 2, 3, h, i, j
+Please enter your next guess: 
+ |
+ 0
+/|\
+/ \
+
+You failed to guess the secret word: cat

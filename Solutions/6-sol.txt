@@ -1,0 +1,51 @@
+Please enter a word to be guessed
+that does not contain ? or white space: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+???
+So far you have guessed: 
+Please enter your next guess: 
+
+??t
+So far you have guessed: t
+Please enter your next guess: You must enter a guess.
+Please enter your next guess: You can only guess a single character.
+Please enter your next guess: You already guessed the character: t
+Please enter your next guess: You can only guess a single character.
+Please enter your next guess: You must enter a guess.
+Please enter your next guess: You must enter a guess.
+Please enter your next guess: 
+
+?at
+So far you have guessed: a, t
+Please enter your next guess: You already guessed the character: t
+Please enter your next guess: You correctly guessed the secret word: cat
